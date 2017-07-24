@@ -1,0 +1,26 @@
+{
+  "name": "Belitunginfo-fbmassanger",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "pm2 start app.js > log.txt",
+    "stop": "pm2 stop all",
+    "restart":"pm2 restart all",
+    "dev": "nodemon app.js",
+    "test": "npm test"
+  },
+  "repository": "https://github.com/hepiska/Belitunginfo-fbmassanger.git",
+  "author": "hepiska <ego1403@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "messenger-bot": "^2.4.0",
+    "pg": "6.4.1",
+    "pm2": "^2.6.1",
+    "sequelize": "^4.3.2"
+  }
+}

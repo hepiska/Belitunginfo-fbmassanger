@@ -1,0 +1,595 @@
+  [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7280935,
+                    "lng": 107.6290859
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.726793869708498,
+                        "lng": 107.6306955802915
+                    },
+                    "southwest": {
+                        "lat": -2.729491830291502,
+                        "lng": 107.6279976197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "5e2519de4d235ab947b94abbece6184296c20ad0",
+            "name": "BW SUITE Belitung",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105412281916771797649/photos\">nizar kauzar</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnWokTMP2l3d9wRR8Gq54dXHNrgvwL324_8ywiXQ97rLjHoZEtxAgpxdyrVTJMQ8W_bWdhl4Q3EhV-s811Tvy9C4t3pN1pHozve82X1mEzlJe9W4zmCBvRmRKFpmtnauHEhBp2mgV40JKhkMR1h-EyebvGhQ_8Kvnp-6sVvcx7AX8WwChuAyTrQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJS9bt5HgWFy4R0aUwMYTDhKg",
+            "rating": 4.1,
+            "reference": "CmRSAAAAM4Kz8Cv1ivuQcEoGyroYjqUn432O4oeZPRusVL-QsteD9KOSdRL0JGogV8cyxVNywzIuloJEvZgrOH7Bh1LTSBnClcRmbY1hv84mLq5XV5zxAv24IrEqGJbxXSGDAUhvEhD6DDJb1fZL6RwxCLlS_WpYGhSPnXEEdBUB_y4e5IrZnptQpeyNrA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Patimura, Tanjung Pendam"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7404209,
+                    "lng": 107.6261445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.739071919708498,
+                        "lng": 107.6274934802915
+                    },
+                    "southwest": {
+                        "lat": -2.741769880291502,
+                        "lng": 107.6247955197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "88c7a688b9ddd231de3020ab7ce90b8e23756756",
+            "name": "Grand Hatika Hotel",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102508617260838024099/photos\">wahyu budiono</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHBWk_A5NRDU0DNgX6jKu7nlwqNsGwVEc3gFo83kZw9E4TM7F9JJMbYyGKuq4UhFKp16O1dGsP0PcWzTAUztDUEQem4nd5nXfT1HwTDd-_G0cbAfM43VHEAtBdBDSLNx2EhC4RXfVA9yHS0Zpgdg4d3uxGhRjrH3TRzLhDV-vAlGprz17QbtTbQ",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJg9ul32AWFy4Rlkzk_yblcSA",
+            "rating": 4,
+            "reference": "CmRRAAAAyhGBt80GJ-XBPo7DrYnmeG67EF2Pmo7LtzDCFMIs4_g2xbbI17KzlSH3e9mklCHrcbghMumMdBxb865zKfkIUWU8ubxvD_dclu16UW4F4Afn2Cl-VpC_JQ6CNW8Np4N_EhDHtg5upE2KKjzA2tOsNDxYGhTmsQ7BiAh0Xy8x4uJM48o0HV4_sQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Kemuning No.16, Tanjung Pandan"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.741614499999999,
+                    "lng": 107.6310574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.740272669708498,
+                        "lng": 107.6323673302915
+                    },
+                    "southwest": {
+                        "lat": -2.742970630291502,
+                        "lng": 107.6296693697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "63c20ad976cbad7f74a9ab8cf03985f871644674",
+            "name": "Mendanau Belitung Hotel",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115866996321253827909/photos\">Budi Restu</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHrtPuJ8hNcHIjXOUOp_dKxitL_-CXs9HTNIzAaawdh1xEl2yYH07KvnhA3WN2OYrOAbSqU1SBuuhEih4OW3JQCaDU0PzCAT6Wn_GamHDTbk50hU_Ly5F8xagiOHRYHTMEhCR14K93NH2vAtUB5U63fl3GhS9Iyo299i8rWTjT3hMe3CwlbxqzQ",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJU11tGmgWFy4RDniMuHfaWD4",
+            "rating": 3,
+            "reference": "CmRRAAAAocMbjA7m9LPaWHq8JNc-3ZoE_VkD5_3LfjDgOtjoTXwFqHVY4GzrVzbT2P_AwbDK1AIQKEHybNWtGprWFVOQp-vXSnNyREwiE8DfSLncJEAahcsXwEWwIplJfevlMh4HEhB0TE8vD9SCtjVFc975vIgXGhRE7wTdRcKybGinok6X5A6Z9otx0A",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Siburik Timur, Tanjung Pandan"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7382327,
+                    "lng": 107.6262492
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.737008719708498,
+                        "lng": 107.6277633802915
+                    },
+                    "southwest": {
+                        "lat": -2.739706680291502,
+                        "lng": 107.6250654197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c4a79b4cf1589f5ddd9513b3d23f584db26ea00b",
+            "name": "Hotel Harlika Jaya",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107279650540921437274/photos\">teddy liauw</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAtGiDsWdsiyzjUTKi0lEbNRXh4sDiIuPT_tyuRdSUr1PzuweBn2EHyNRVK7hr-F2WS-Kz5m4RjTGPIdhU--HiRGYqalM061O0J3kFcQWnI7KjVXWFFi13-mi9GqBrZSwvEhD3d7I0cP4dt5_yU_JJmSEJGhRu5Ggf5p-SMim4PKTvFNXdi5Xv5g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-8n1XmEWFy4R-HmQWwOP9nU",
+            "rating": 3.5,
+            "reference": "CmRRAAAAWqubN5xEwzxZnddil13nHPl6Yxvd49neZvsP-PM6ar-0Mg1Iyg_BmrrFYtZ0tzAsVoScPFL74IxTj6huTHwGViQz7cSCASNYBuH8J_uOxsaz0AezF3JFaCHm8PFM5ijBEhDxpDT0K6QVM9nQeBHmM9nkGhTm92Ri-HToMHvtUfcIQcew4Pke6Q",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Melati, Parit"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.748255299999999,
+                    "lng": 107.6516122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.746906319708498,
+                        "lng": 107.6529611802915
+                    },
+                    "southwest": {
+                        "lat": -2.749604280291501,
+                        "lng": 107.6502632197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "7f5e0d29db1d81f9d483f8ac926f9fcdc0cb73dc",
+            "name": "Hotel Demuon",
+            "photos": [
+                {
+                    "height": 4016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105803059453826634222/photos\">Holidaydestination tour</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAmfgHSxiwGpRZUGeFUyhHY2oUgK7q13FH2AnZ0AC8fZBC8uK69KimUQxHmLZeBREdTEuhe-ejZC6wk8g-KV5m-nZC31GpPffq7CWh-unwzkpP0_Rcb6jS2UR6b7P45hG_EhDQy7-UM56SGAGyvUImwKfPGhSWnmLNcehisQY58httWICaeerSVg",
+                    "width": 6016
+                }
+            ],
+            "place_id": "ChIJDf3bYYw9Fy4R83Dp9BiHPTw",
+            "rating": 3.3,
+            "reference": "CmRRAAAAe2oylW3my38-F4UmsloL380FqfhdjrR6NQRS7izKadhgjjd7660L03O4lRgWFbUOxeblhH5vcDXGRvkn4s30RiIXE7tRpqssIJJIL4w3mzWa70GZsRZ5I2DeQMbFT7cSEhAR64LhwVth0gu9wKovWup_GhQO_K1vgPWIItij07M6k2m7l4nFzw",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jl. Jend. Sudirman No. 30, Perawas, Tanjung Pandan, Pangkal Lalang"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7421412,
+                    "lng": 107.6286701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.740792219708498,
+                        "lng": 107.6300190802915
+                    },
+                    "southwest": {
+                        "lat": -2.743490180291502,
+                        "lng": 107.6273211197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "10bcd8d5a2c4c6fc613de25c2a4ff0ac0a4c6fc9",
+            "name": "Hotel Lux Melati",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111137019406717173555/photos\">Heru Roeff</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAkRAQaFn1bJmWcXE5gi5hel_onKZYOSbaFGrWF7cjLUvklNKWYb9XEeYChsFVm6GNwOMYfMgs3WDgSS4ZTRJYog9KyMgWtuGygwf8UDu1216fsurS2TdrLiigY2bbM7UpEhB3fkBs-en7YyIEFE4UnPbQGhQr_dkfmWOA8S7VSAxSaW8M6_RKPA",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJqRFGQ2cWFy4RrH-vn1cz0MQ",
+            "rating": 3.6,
+            "reference": "CmRSAAAAwpoJdbMZjdbqMGVIz1nLavqHQz-2q590WT2d-S1tHxhX9cbZ_w5bgUnMZkEXzIWY-6wmr8CEqjq8wQrQ_DKiTHJ97upjnuk5OzC5sgOI5nbGQDv5gsQ9ta5hFOP-WiX4EhDIWawVWWDd2Gnhe9ARIgCnGhSQLnMxtzKt0VHM9HNwh1fSu7IFhg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Melati, Parit"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7374849,
+                    "lng": 107.6409649
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.736135919708498,
+                        "lng": 107.6423138802915
+                    },
+                    "southwest": {
+                        "lat": -2.738833880291502,
+                        "lng": 107.6396159197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "538922e532bcde94ddc52d8b4ac02d01c4c924a9",
+            "name": "Hotel Sarila",
+            "photos": [
+                {
+                    "height": 647,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110820173158888448736/photos\">ACHMAD SYAINUDIN</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAItJdRbC9rzFkSQuEml6oQW1mkNJOg9NG_0kpx-XXD-_u5_aldmVBW1fSPy3HBO3SVmDmhu96JS0cNZznrw_jOjco41yzW7rpKwiPd-71xG7Va4_oWXDIBsBpLQh_zzF-EhBuaYJ9JMSgT4CVG-ZEjDi7GhRI0VfBg1Eq7zUAOUYVOJghuazP1g",
+                    "width": 1076
+                }
+            ],
+            "place_id": "ChIJuQShc2wWFy4R9tt4uIKmveM",
+            "rating": 4.2,
+            "reference": "CmRSAAAALKty15YHsErXUAWGsoKTQo8S2dUcXyQ6IbjyKHNHr4xJb3uu2LSsrWIVOoEcfiH6vcHGqHcAaM4K1-kdRuaXttG5HJPlzfLqwUAHYsJ8hdQ9ZV0csaX2LBcpnqfjHjt3EhCdnK28qPTvbrOeX0A79T6eGhTQ4pI5QdqggIdfH8MHccVYx-M_4Q",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Paal Satu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7457959,
+                    "lng": 107.6472939
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.744446919708498,
+                        "lng": 107.6486428802915
+                    },
+                    "southwest": {
+                        "lat": -2.747144880291502,
+                        "lng": 107.6459449197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "68aafb3bbb0b147c52ad1a2913496b7fe0d25876",
+            "name": "eSBe Hotel",
+            "photos": [
+                {
+                    "height": 1240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103024177058418672249/photos\">Muhammad Fahmi</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYL05uAMgDON4NqJSPss9zVV1iZ_Rb85lfWVMTzc_GPBiY4NjzT9jyp0j5LsSwrtE01JKvT37_Quy7d92Cr3W6tbtBEtYXjxojcPnanUMHnxDXVCMrq0naSMiPUJJMwg5EhBA2veXBw_tHEfswEhnFdSYGhRp--RRhU2eYjNGD0mls6SX72SWlA",
+                    "width": 2216
+                }
+            ],
+            "place_id": "ChIJ6Sn-bL09Fy4Rr9vc1chuyWA",
+            "rating": 3.9,
+            "reference": "CmRRAAAAypgXY6AblWii7yVw3kJ2bo5LrPURgIFo06ZX4RaDqlNtbik3E08DyX1WvnyOJw-kAawRuO1CH_WA_qGVWa4DX3LmuUsEITmiSM0dptsrs1o3oqeYqSqbuA5tTWLqcQf1EhDlKzdDGrPPM5fTCzlX1Sw2GhTLHd_gGH0u7rPf2WVY5M0Nj7mXHw",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Sudirman No. 23, Tanjungpandan, Pangkal Lalang"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.738881,
+                    "lng": 107.6384372
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.737553869708498,
+                        "lng": 107.6396098802915
+                    },
+                    "southwest": {
+                        "lat": -2.740251830291502,
+                        "lng": 107.6369119197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "1771cb34e86a4c35658dde1c6e55457554baf970",
+            "name": "Rahat Icon Hotel",
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100379739840031809650/photos\">Indra Yonathan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXNeI99jnb4IeppgjrFZtrrCLsaFNlmssUvuiyDQEevThJm2JESOONhWULTRFUn1jkID5Cqc79ZJJeMl2FjAZclhhJaT_sgP7axl1xFgEL-9d24Vpe5nxqfys0VM88A-CEhD8VFtf1dHMwaIVjn095lxQGhRRZkZTUukgQpWEwhCvurjlmW80Ag",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJISqGcWkWFy4RNTtV0JWhzXk",
+            "rating": 4,
+            "reference": "CmRRAAAAkhxd7p-zA710Z33cicUFsBXFbRH7PWelqDqmaFZhPwssbSan5mbNncPJwAtkr2UtHOC8eAkTenDQCsOyfBOV-3OrX-qOh0rt1prq8-DxZvgGbxOqepedJS4CG_q_OE9kEhCG_vp3tUZLa-FZYMnobF3KGhQNtEZCMm0MXgAe9zMg5rEYg3GQ0g",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Depati Rahat No.21, Tanjung Pandan"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7237438,
+                    "lng": 107.6657984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.722394819708498,
+                        "lng": 107.6671473802915
+                    },
+                    "southwest": {
+                        "lat": -2.725092780291502,
+                        "lng": 107.6644494197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "fe57694e01f9dca73bf580dd47d1819898635615",
+            "name": "Pelangi Lake Resort",
+            "place_id": "ChIJrVDYhwAWFy4RcjPUkGhmWY4",
+            "reference": "CmRSAAAAnypj5HiivjnjthiimJogdiiB_pdfLHOxAOBVfxbvkTqeXJUEInNtXo5geEAHXDWqcFIcLijxtk5OB7H2dqSdJquzo1CMv-u7Ta3XEuLd9fG9Oi4GUZOocOeaI2FwctuuEhCzAk7atWZGTV69JCG6iwmCGhSeEM5LrCQZJczbsCzjiT0YEALeTA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jl. Raya Tanjung Tinggi RT 12 Desa Keciput Kec.Sijuk, Air Merbau"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7429205,
+                    "lng": 107.6729507
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.741571519708498,
+                        "lng": 107.6742996802915
+                    },
+                    "southwest": {
+                        "lat": -2.744269480291502,
+                        "lng": 107.6716017197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ebf585efccd11d891c1bf8f5322c253948324233",
+            "name": "dric's House",
+            "place_id": "ChIJQTb9O4s9Fy4RE3c1s0_CCA0",
+            "rating": 4,
+            "reference": "CmRRAAAAlq2_QAfZOnRE6TYR9FenXe-umk0tg0c51r44uIg_aD7a7v7KuJVfdggFSuBGqV6c6LMLLc_uGi0bVKH-rQ5Tkdtcy8GJg80ONuemg0f_VZg5ydWE6efyM-pZck6Dmr_2EhBJ1KcG4QPWAXuT2UzHSEOgGhQzySMWbbVqluwhqusMGVmyAydf6w",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jl. Jend Sudirman RT 028 RW 010, Air Rayak, Perawas"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.739874,
+                    "lng": 107.632401
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.738525019708498,
+                        "lng": 107.6337499802915
+                    },
+                    "southwest": {
+                        "lat": -2.741222980291502,
+                        "lng": 107.6310520197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ae81a9fea481a68eeddd1901f5f1e84885642686",
+            "name": "Billiton Hotel & Klub",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112326778034504796218/photos\">Billiton Hotel &amp; Klub</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHHLYXFlikzz88m0UAgSHqA59w45HnSdmE-yWJBzca47fsW5J6gY6N0L_47eVz9Ee-WeKBOqhrHXex1uJbU4unb5Ay2XQw0atpjKg2cJ3TQ55Kb3zmCAlt5mTutYe8HZDEhDmrNhBwmFemv9u1ONvSH4vGhRlKg90tqnYon_xcZnGTL3WLbiqVg",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJMfLdN9cXFy4RtD6e610T9iQ",
+            "rating": 4.1,
+            "reference": "CmRRAAAATpdt_jcBymnaTmyJta7K4nadpv1keLRnlmFsSQTUksvLj9jHQxFi9xDlNXepmnjGN2HYEGT_riRPpYIA1Fuga11LT4tifwnAqwxv6cykv8OzJ2WfPKq5gFScmGwMLjyjEhCVRyCYYjsXBY63wJHGhAtYGhTZeYUdd4nKXDDq9qpY_I8ZGD3fxQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Gegedek No. 50, Kota Tanjung Pandan, Tanjung Pandan, Parit"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.7459132,
+                    "lng": 107.6517017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.744564219708498,
+                        "lng": 107.6530506802915
+                    },
+                    "southwest": {
+                        "lat": -2.747262180291502,
+                        "lng": 107.6503527197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "585c058766ec226b780944a54555a4ce071bfe92",
+            "name": "Tamara Hotel",
+            "place_id": "ChIJowI9jG88Fy4RxukXb_ef4IU",
+            "rating": 3.8,
+            "reference": "CmRSAAAAG_0DlnZiJNfXCRHdBjFJq90Q1x3Fzu9Wivort9IEGgOai0j5GFekYiz6YAJRTTGLExWYiXcYj5OtXds9Y0Ce2PzImY1tIb0s7HPZgB5m7bXaSVUccbJhTLgprpj0D2roEhDxZ0NGJsA1tlL8qCdHUkUtGhTXtFI7DEj63NctgPDDCjZebVipAw",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jl. Jendral Sudirman, No. 30, Tanjung Pandan, Lesung Batang"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.726068,
+                    "lng": 107.6320186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.724719019708498,
+                        "lng": 107.6333675802915
+                    },
+                    "southwest": {
+                        "lat": -2.727416980291502,
+                        "lng": 107.6306696197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4704146590819efefad05643a67795dfa0fb1cf9",
+            "name": "Cakra Buana Bangka Belitung Tour Travel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1202,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114074070042764696417/photos\">Cakra Buana Bangka Belitung Tour Travel</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAeu8yYaxj7cOL4_9AjcG3IVTV-5hTICcpe3bma-GNrgLWYsiak8m6tCEBxXJdN4YUz-masDbVVE5M0iNR5-K3XlouGt9rxy-vg-1AooF8ZYXfalNsAd4a_QoX_F3jwuTDEhDoLNufAByxi-fUuRvUushpGhQX6AceMNSLWpqiWt1KSOJzGijqfg",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJOW3wkGM8Fy4Ra1KAemY21Pw",
+            "rating": 4.3,
+            "reference": "CmRSAAAArIhKEjmki-M6wugbQ1KxLCqFojWIbGJyMu4QbAjtmoNC5pszFnvC76T70oxl_-Fyj8-hlDpXJknLD195ei9vGo92_mikaMAFigxxJ0mOdaeTRPLS8KDN_xBlIN2uaYeBEhDUDS8dBd-Kf10MDcUHwgmYGhQJsXAVzTJjRRQx16euMEptHqSZCg",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalan Zainal Abidin No.11, Tanjung Pendam"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": -2.561821,
+                    "lng": 107.7011968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -2.560472019708498,
+                        "lng": 107.7025457802915
+                    },
+                    "southwest": {
+                        "lat": -2.563169980291502,
+                        "lng": 107.6998478197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a21b2ec7d0e572f1f60a9beb5c860bb3ec53922d",
+            "name": "Lor IN Belitung Hotel & Resort",
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115601475137305549888/photos\">Adrian Zerpa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaHLELE-9WdjhuODY8bOs-21fOuW5m5Io2nOlXd26AHbpVgyk1xYksP4HIjX1a9IX1BnFw9G7zjbnnCF9DhXa5-4b2abmUCY2nj0tI4jSmZyTX9tzYDN0gq7K_w4Wne9pEhCmJ2JIp9viaB41q0x8jwEGGhThxy1WzKbwYCItgrT0XOCTTmWBeQ",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJbRE-zTpCFy4R8ZVKSQEwqHA",
+            "rating": 3.7,
+            "reference": "CmRRAAAA8C65Df1zhb0XSmRnCb3kVzE34BXH7c0d1FdeGjkdmJ_w4Oc61rawuOiKxe9Hcn3IcvGr3QT5Se1JD-qWstUkrbk8ccEK7VckRHcHyVvqsm54ylYXA0eMzBaykp1qcwOAEhBkKIcgp0keU_pCKi-hSrVzGhR5QK9tVbnCwXwddMdI_PiQaXWIwg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Tanjung Tinggi, Sijuk, Keciput"
+        }
+
+    ]

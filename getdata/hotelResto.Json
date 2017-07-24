@@ -1,0 +1,408 @@
+[{
+    "name": "BW SUITE Belitung",
+    "lng": 107.6290859,
+    "lat": -2.7280935,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 4.1
+}, {
+    "name": "Grand Hatika Hotel",
+    "lng": 107.6261445,
+    "lat": -2.7404209,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z","createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 4
+}, {
+    "name": "Mendanau Belitung Hotel",
+    "lng": 107.6310574,
+    "lat": -2.741614499999999,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 3
+}, {
+    "name": "Hotel Harlika Jaya",
+    "lng": 107.6262492,
+    "lat": -2.7382327,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 3.5
+}, {
+    "name": "Hotel Demuon",
+    "lng": 107.6516122,
+    "lat": -2.748255299999999,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 3.3
+}, {
+    "name": "Hotel Lux Melati",
+    "lng": 107.6286701,
+    "lat": -2.7421412,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 3.6
+}, {
+    "name": "Hotel Sarila",
+    "lng": 107.6409649,
+    "lat": -2.7374849,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 4.2
+}, {
+    "name": "eSBe Hotel",
+    "lng": 107.6472939,
+    "lat": -2.7457959,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 3.9
+}, {
+    "name": "Rahat Icon Hotel",
+    "lng": 107.6384372,
+    "lat": -2.738881,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 4
+}, {
+    "name": "Pelangi Lake Resort",
+    "lng": 107.6657984,
+    "lat": -2.7237438,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel"
+}, {
+    "name": "dric's House",
+    "lng": 107.6729507,
+    "lat": -2.7429205,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 4
+}, {
+    "name": "Billiton Hotel & Klub",
+    "lng": 107.632401,
+    "lat": -2.739874,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 4.1
+}, {
+    "name": "Tamara Hotel",
+    "lng": 107.6517017,
+    "lat": -2.7459132,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 3.8
+}, {
+    "name": "Cakra Buana Bangka Belitung Tour Travel",
+    "lng": 107.6320186,
+    "lat": -2.726068,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 4.3
+}, {
+    "name": "Lor IN Belitung Hotel & Resort",
+    "lng": 107.7011968,
+    "lat": -2.561821,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "hotel",
+    "rate": 3.7
+}, {
+    "name": "KFC",
+    "lng": 107.6349686,
+    "lat": -2.7393937,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 3.8
+}, {
+    "name": "Mie Belitung Atep",
+    "lng": 107.6339897,
+    "lat": -2.7397037,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "Wisata Kuliner Belitong",
+    "lng": 107.6301548,
+    "lat": -2.7413791,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 3.7
+}, {
+    "name": "Saung Askar",
+    "lng": 107.6389548,
+    "lat": -2.7418523,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant"
+}, {
+    "name": "Teras Vanilla",
+    "lng": 107.6402343,
+    "lat": -2.7431583,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "Siomay Baywatch 2",
+    "lng": 107.6255275,
+    "lat": -2.7401381,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant"
+}, {
+    "name": "Bahari Resto & Pub",
+    "lng": 107.6252907,
+    "lat": -2.7409778,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 3.5
+}, {
+    "name": "Unique Bistro & Karaoke",
+    "lng": 107.625329,
+    "lat": -2.741225,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4.4
+}, {
+    "name": "Restoran Thai Fa",
+    "lng": 107.6275797,
+    "lat": -2.733498,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 3.8
+}, {
+    "name": "Pempek Mama Rio",
+    "lng": 107.6364379,
+    "lat": -2.7306457,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant"
+}, {
+    "name": "MR JO Seafood",
+    "lng": 107.6361787,
+    "lat": -2.7257147,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4.6
+}, {
+    "name": "Empek Empek Mak Putri",
+    "lng": 107.6391516,
+    "lat": -2.7246387,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "SONGSUI KIMMOI",
+    "lng": 107.654437,
+    "lat": -2.731261,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 5
+}, {
+    "name": "AL KHOIR DIGITAL",
+    "lng": 107.6532219,
+    "lat": -2.7565119,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant"
+}, {
+    "name": "Dapur Bang Jo",
+    "lng": 107.6586003,
+    "lat": -2.7273919,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 5
+}, {
+    "name": "warung lele kriuk",
+    "lng": 107.664541,
+    "lat": -2.74464,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "Warung Piscok Meler",
+    "lng": 107.6646943,
+    "lat": -2.744368,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 5
+}, {
+    "name": "Pandan House Restaurant",
+    "lng": 107.6710153,
+    "lat": -2.7199068,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4.3
+}, {
+    "name": "Kedai SS",
+    "lng": 107.6777567,
+    "lat": -2.7454564,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 3.8
+}, {
+    "name": "RM Grago Point ( Traditional & Authentic Resto)",
+    "lng": 107.63128,
+    "lat": -2.68624,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "RM. LILI",
+    "lng": 107.6726353,
+    "lat": -2.5609987,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "Restauran Sian Lie",
+    "lng": 107.6716845,
+    "lat": -2.560292,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4.7
+}, {
+    "name": "Rumah Makan Nuansa Pantai",
+    "lng": 107.6692452,
+    "lat": -2.5594128,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant"
+}, {
+    "name": "Ratu Seafood",
+    "lng": 107.669296,
+    "lat": -2.5589857,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant"
+}, {
+    "name": "Kelayang Cottages And Resto",
+    "lng": 107.6686301,
+    "lat": -2.558383499999999,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "RM Amat",
+    "lng": 107.6969861,
+    "lat": -2.5626011,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4.4
+}, {
+    "name": "RESTAURANT MABAI",
+    "lng": 107.6977981,
+    "lat": -2.562588,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 3.8
+}, {
+    "name": "Resto Kepayang",
+    "lng": 107.652279,
+    "lat": -2.5504444,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4.3
+}, {
+    "name": "Warung Pojok",
+    "lng": 107.7179123,
+    "lat": -2.5546941,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 3
+}, {
+    "name": "Rumah Makan Seleraku",
+    "lng": 107.7182875,
+    "lat": -2.5539237,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 4
+}, {
+    "name": "RM cintakasih seafood",
+    "lng": 107.7182198,
+    "lat": -2.5535784,
+    "description": "",
+    "premium": false,
+    "count": 0,"createdAt": "2017-05-25T12:00:00Z", "updatedAt": "2017-05-25T12:00:00Z",
+    "category": "restorant",
+    "rate": 5
+}]

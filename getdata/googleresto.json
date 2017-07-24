@@ -1,0 +1,1367 @@
+[
+  {
+           "geometry": {
+               "location": {
+                   "lat": -2.7393937,
+                   "lng": 107.6349686
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.738086819708498,
+                       "lng": 107.6363333302915
+                   },
+                   "southwest": {
+                       "lat": -2.740784780291502,
+                       "lng": 107.6336353697085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "261aad745d2f7828b5fa72a68889c4bb5c2c5240",
+           "name": "KFC",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 2988,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/101046251812299771644/photos\">Mario Tandra</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAxlXI1hKr_y1-tDRXbyckjRGVZrsn9utV0u66KsVy8OUma_ZPgOOam-XJm5wRK7W7NqJqiKv_XWQ3KWpIJ0Lg08IkkwRqVXQBkiiztUY1w3XqGho9-3oZsE4mE63gj_a9EhDX2ObibfHBatP7f4J5B8pSGhTCpgP77SoQaf-OEZW4at9P1Eur1w",
+                   "width": 5312
+               }
+           ],
+           "place_id": "ChIJVVVVVYEVFy4RSHpT6kEcffI",
+           "rating": 3.8,
+           "reference": "CmRSAAAA904bsy-fz63CgKERS3UlWAwEiiYbYGauFnbP173eDWSnA74S-X0KGgVnNprsW3AMme7crpN5jgwsWuQ6cPgcgjF6DsOgtwQpJ6rjlZdc_SyTVnkQbV_lT-dcGSOLXPK0EhAW3a7JHug5D8vrQLqkcjGPGhRZS7TpZg-YUKaw0IKapNg8B_U9ag",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Tanjung Pandan Belitung, Jl. Sriwijaya Square, Ruko 3 1/2 Lt., Blok 567, Tanjung Pandan"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7397037,
+                   "lng": 107.6339897
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.738427969708498,
+                       "lng": 107.6353534802915
+                   },
+                   "southwest": {
+                       "lat": -2.741125930291501,
+                       "lng": 107.6326555197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "0992b5b6ae072f73edc344b26908cd710cc379a8",
+           "name": "Mie Belitung Atep",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3120,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/117408669749363278458/photos\">Muhammad Syukron Makmun</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAaLxM7vxnA5QYAdtNkdCbC6VlA2RAryI-e_LPWLUr9OzOCSmF86Rm3dqQBTcLEvH5cI5UYVlwnQvUjVc_PR6oli_FiCToNh7ii4qvMH4fmI__s5JZK2EyJeXZDlPPiyroEhDOQ2xCVno8UgfBFY7epKejGhSO9aI4kRnBPU1h9jGNbAJQoZ_nSQ",
+                   "width": 4160
+               }
+           ],
+           "place_id": "ChIJ6dg1wmwWFy4R3gKj_wfIaqE",
+           "rating": 4,
+           "reference": "CmRSAAAA9vOblHyDk-PgIBYmhL45I0942Tko6PsLQ8KBmLcsKmN8JuXuBGQ8W9dsc_r7vVqRGppvnF3H6TvmWfqJHxWzLV_ISAaZmmaJxkMPz8ke1tGtwYgZG67-GUPYgS8SkYI_EhABURYNVLY2ly7Jc1fRfLC0GhQyLissSdLoffT2Vp4n82jtV_VDAw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Sriwijaya No.27, Parit"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7413791,
+                   "lng": 107.6301548
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.740030119708499,
+                       "lng": 107.6315037802915
+                   },
+                   "southwest": {
+                       "lat": -2.742728080291502,
+                       "lng": 107.6288058197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "f2426fb23871ac769b207a2e944f31a7c74f2c45",
+           "name": "Wisata Kuliner Belitong",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 1872,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/111229746661339677090/photos\">Zainul Fuad</a>"
+                   ],
+                   "photo_reference": "CmRaAAAACj20hkacXLKI-5RZMO3DrnYQ-S2yMlgwiprO6zGMRxU4ATRru2NxVt_gSS_A3WUDU6ki01Jr2iT2LtQJJJoIdgH0SxfkPhArQp5LGLnmMnBWUkZw7sEq4NwlmHAW8J2wEhA1fkgn68eYTbylxRQRex0TGhSOwoEiGqU6A-3zfpL_1PNde76ScQ",
+                   "width": 3328
+               }
+           ],
+           "place_id": "ChIJ9wMKC2cWFy4RBDhg8E-dP8E",
+           "rating": 3.7,
+           "reference": "CmRSAAAAvQhhMRO39LHleTl-ZWbWccp3KAmnFbe4Xm4a3bPBKrL4X3_w7yHyQUMac0zBDHyC2Nrp-WDkAtOYAEJzWz76l5It1dZMehArJDR24u3_MP07ev6HFTAENk6ALYhmIhtKEhBbEGIjJ54ePCoo51TneeOfGhQPgnyFAF9d4SzNLE7vJzFz0X0Oag",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Tanjung Pandan"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7418523,
+                   "lng": 107.6389548
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.740563519708498,
+                       "lng": 107.6402508302915
+                   },
+                   "southwest": {
+                       "lat": -2.743261480291502,
+                       "lng": 107.6375528697085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "926f9f02760fed9ddab2038d3f57e594c1a30517",
+           "name": "Saung Askar",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 452,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/112604522981574113652/photos\">Kangeddy Askar</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAu2vEIZm4iekvlhHuKdk4EI02V4nmMo42dDwqhWCQS_HYsUzV4eMPmqPdRsLehrwSe-CH3f7_UalhZy2NTDgMqFIeVo3r_DJJHFJx-_nUDxYpO6ohwnYcH_oBeap43hu1EhAdIc7rs76QvpCNtInRO7QGGhSwnDMbyoRrRMJ1_yyi7NiK4-OcIw",
+                   "width": 540
+               }
+           ],
+           "place_id": "ChIJjeAo92kWFy4RUVnLjPjIkOs",
+           "reference": "CmRSAAAAh2UDpWoyk_FodkeGk05SPDPHUBYzrLdf-0t9zFVZbMzHEf4531qQpSYbFHWITD5KIdKbJe3Q4NGvtywYUmiPdqAuVWJTNQJht2SqZmdeL3oluTiJm95NkarSyJzrbv-bEhA-COQcPaI4KE0fMjdwri0vGhR8KLYzmPwKRABlszAsE9bu91DGhw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Sudirman No.45, Tanjung Pandan"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7431583,
+                   "lng": 107.6402343
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.741680019708498,
+                       "lng": 107.6414900802915
+                   },
+                   "southwest": {
+                       "lat": -2.744377980291501,
+                       "lng": 107.6387921197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "0f74991e6eab2bdfa87104a1272bcf0c5d33e88c",
+           "name": "Teras Vanilla",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 4128,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/113708704169866509184/photos\">Dhea Juanita Dwi Anggun</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAwInp0EO2OaIt0qifTiDpTdK-_jFvQjEm-qLYI05Phq-OWh0tDK5mg08iIBPKtXDZMPRAPU5JTQF2MYPA1BYIXnx4ELLzEuvU1vo77ydTGw_rEsqLBtGYjaPIpg2MYahEEhDHQdMLdUObDsXa_4S3J1u8GhSozmryugyG-_J9pNR0tLU4nrzUFA",
+                   "width": 2322
+               }
+           ],
+           "place_id": "ChIJv6vD-kEWFy4RXUqDtJtYLNo",
+           "rating": 4,
+           "reference": "CmRSAAAAcnIJAgfWu_Mny8tCGbBi8KbXe6DobJPDI4L3EFsS4zusckkX2j_Wy9qRHxbtjs-qUXSrDeznKqbb4EnJsDTqv60D8oDlrmKv9VTznhPb-jH18gM4q84DLl93uh9zOqfrEhDmbZH9inTAvEoqwEFWDfInGhREnCS4GgERoHeSx45ZqiUlXfSwUQ",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Jendral Sudirman, RT. 008/04, Pangkal Lalang"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7401381,
+                   "lng": 107.6255275
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.738789119708498,
+                       "lng": 107.6268764802915
+                   },
+                   "southwest": {
+                       "lat": -2.741487080291502,
+                       "lng": 107.6241785197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "fff3996dedfd5f2a0721cca557f5170be66b7046",
+           "name": "Siomay Baywatch 2",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "place_id": "ChIJqzQMHGEWFy4RGy4GZvDC-iw",
+           "reference": "CmRRAAAA4oVVF-Pxc2joF_Dhhq-weJP5P_RObEpinEPRJoW-glQToA-3LKFjc4Exg3_j_Vthbu3pKlmhMG5xLXNHBoqGrnU0b1cahJW74XpxZ3Ow00iQlF5xa3J62FfBYwDhwE3gEhDDo0zMWUeKstGxgcRILKrRGhTPnbHY8hPCXqw_Zz0_AUVU_Ik0xA",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Parit"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7409778,
+                   "lng": 107.6252907
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.739678269708498,
+                       "lng": 107.6266272802915
+                   },
+                   "southwest": {
+                       "lat": -2.742376230291502,
+                       "lng": 107.6239293197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "d58c6de59282c0c54c75b7d3cc4e5b00d706dacd",
+           "name": "Bahari Resto & Pub",
+           "photos": [
+               {
+                   "height": 2322,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/112060273646981225904/photos\">Uroh Ayu</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAgqe_dbJ-b9WxqoL6ehg45lpWelrsEC5Bq13DfcQCIR78tAZc8IOOfj9aXbi2_iMOBgAvBK4faO6C7X3G5saZvY7AahC1ViMIqSopTFzlxexEOGOkV2onWHrSwVbSwn-PEhChi-gUGtJ9t9UZfnGYtboQGhTHzu8VvwasdfAC9RGLnbbfSUu4Tw",
+                   "width": 4128
+               }
+           ],
+           "place_id": "ChIJVQdb5WAWFy4RqmMr35J1zeY",
+           "rating": 3.5,
+           "reference": "CmRSAAAA5D1BzRbAxUjKkMNJSg_c2t64iM13oJx6XzQU2DNeNp2jSLnfvBoup9pPjBJOn_qVtZEiJ56XNequWrqixB78qVdwJDj-EiL56vwH_B9cAYtaXxt_NtiQav-5yhlhkYXbEhDFTqJa0uuHF8OqGdSQf8qkGhRUtedzcCqjqz5zB0bHaBRQwuU_tA",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Kemuning No.11, Parit"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.741225,
+                   "lng": 107.625329
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.739818119708499,
+                       "lng": 107.6267115302915
+                   },
+                   "southwest": {
+                       "lat": -2.742516080291503,
+                       "lng": 107.6240135697085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "f030c9e73d047e52eb2ad145a7014a5c2892ab09",
+           "name": "Unique Bistro & Karaoke",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 960,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/100877966696761565276/photos\">Unique Bistro &amp; Karaoke</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAkfUhUuqrTihtaPofys0RYI7jkCeUOmWxa4L-XaBeYHZyPG6In4ykGLk3BMFtxBfn1nNvezhY77QHsXXEy71DsABwHZI_HqLrVBZzBiF3Jltd4EkUH9SNTkHl5jh_31xSEhAYZH8v6Eo0e_9Xl3iiCC6mGhQH-j0eH6cu2x8qBrVvDXviH7eINw",
+                   "width": 1280
+               }
+           ],
+           "place_id": "ChIJGydb7mAWFy4RRPmHXQZ1DnU",
+           "rating": 4.4,
+           "reference": "CmRRAAAA9j-xI7c6d_loLM-i3vbcfxNPIvrTmOujxI45upAimNz8DMyJ1NxYRG9kbKtOE_bgZ5vpmddaenLT5MrA8K8847cWxOnj-LSKjgXvaUKomPvxHWXTHXA9ifC2yycn6lgJEhDiOIQVHvh4l95bJbTDsxBRGhQOCJR4GXweoWHGi-phbYNpwXqEIA",
+           "scope": "GOOGLE",
+           "types": [
+               "bar",
+               "night_club",
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Tanjung Pendam"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.733498,
+                   "lng": 107.6275797
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.732248119708498,
+                       "lng": 107.6292066302915
+                   },
+                   "southwest": {
+                       "lat": -2.734946080291501,
+                       "lng": 107.6265086697085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "9ad589632478a032be68970d50c032e5ec266ef5",
+           "name": "Restoran Thai Fa",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 773,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/115151705742025304692/photos\">Restoran Thai Fa</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAe5hXBrxCYvZ_00krsJbIdpHcGBU-XpAHKlTLY-3eOWdzYfSJFVeSzTyJIKjRNx6i9kI1m2jfA9ClOhtq9vPkXBqCZVy3HeK7Ytr2H4t4aUFFn6oEkUaLqksXGJo_zk1_EhBZhbB0spCReOb4MgIrUpYTGhSQc_iW8XxnbUxX9CGt3MAlOxYf0Q",
+                   "width": 774
+               }
+           ],
+           "place_id": "ChIJHfbSq2QWFy4Red5FwlV2RLY",
+           "rating": 3.8,
+           "reference": "CmRSAAAAO6KWu_hEg9hziWqcJ0Ft94fB1EeaiscxiiwK6x4NSna0U11AgXn87wZw8Q78zL-jBS4qisu1zQsRHv6zqreBFl2aCHuEHi45lAfi4ehuhSi_MMo2STU8BcBhjo433VRxEhAPNZm5oFpH6iRA6c-rhnwPGhSIATWSmXK9dX1NlTRMitl7_VaBrw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Patimura No.20, Tanjung Pendam"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7306457,
+                   "lng": 107.6364379
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.729296719708498,
+                       "lng": 107.6377868802915
+                   },
+                   "southwest": {
+                       "lat": -2.731994680291502,
+                       "lng": 107.6350889197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "0b2481a5434c10fdde5e4f366b92cbcf2ff3b8c5",
+           "name": "Pempek Mama Rio",
+           "opening_hours": {
+               "open_now": false,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3264,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/101873059210443824248/photos\">hendra gemilang</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA12EBGLz4uVR0u55nRVkrVifkpOxK9eKy13nbyeO63cUoPoNw4YaViguXquliUV6yy-Q0xoljIWkFC6RgEW8SIAUWM7vGdC6OFJ-ypI8mUUJaahxa9MX9cqjuCFSLhI7BEhCeDpB0yjPWL9aMR7Dh-uq8GhTgJHB4J8xaGudd__sQWY7gvzn7WA",
+                   "width": 2448
+               }
+           ],
+           "place_id": "ChIJ_RFBAHEWFy4Rsk16PkHv-Oo",
+           "reference": "CmRSAAAAflz6qOb6qdctaLv6B5asdTOTVmpqJ_7Zc5e9MYzKuE1prxquASU0UHduO6ae82Lh6OuW6PB9K-wz4b5EXXXQmSLWxIPO3qWjJcHdxxdLEB1Grflz0VMK01xQch6wY0xXEhDSbJ_hOGNNLXbDiI6q88fZGhQSh9mA_nmxTb_8r-6_fwRHUhZNZA",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Bambang Utoyo No.55, Parit"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7257147,
+                   "lng": 107.6361787
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.724336369708498,
+                       "lng": 107.6375067802915
+                   },
+                   "southwest": {
+                       "lat": -2.727034330291502,
+                       "lng": 107.6348088197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "06e83386010deef56ee2a142fb7aba2fdd00665e",
+           "name": "MR JO Seafood",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3456,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/103000732969212488740/photos\">Medhawika Yusritama</a>"
+                   ],
+                   "photo_reference": "CmRaAAAADTONynSK0ED7_Ykb6FFLozLnR61fyGSFBCpF74a7nGSMlbYaKXJ_NSpsEx_-JAJtuFWzkCw0wq6WWT35O3A2XSF0IZDtwvK3S54JGaKp06Yp-aX6NZNZzs61ENao2fw7EhB-HnHBZokXL611dd1V01vdGhSabClRjJ2WfQSf1TvXZd00cvqzjA",
+                   "width": 4608
+               }
+           ],
+           "place_id": "ChIJ-Vh6q3cWFy4RzaNAKKioiLg",
+           "rating": 4.6,
+           "reference": "CmRSAAAAASFPrYROcB_AbsCwkMx5JnIa_cVGlc5A8qLK_Gr89u7UKw6nzZ2v-2094ELk9dREhVpML0Ycr6b1rAaSk8hX6YmyFhMBpoZIDIZb90Z0ndJSxA2uVAC7gBTIqnmHYqIVEhBBs2ZEQ_szyGiGIjk7F1ktGhQi3Q7jkrT7nmcs_FSd8LQYztJVDw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Ali Uyub No.56, Tanjung Pendam"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7246387,
+                   "lng": 107.6391516
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.723287019708498,
+                       "lng": 107.6405004802915
+                   },
+                   "southwest": {
+                       "lat": -2.725984980291502,
+                       "lng": 107.6378025197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "ef8a6561447fa4e015be46d8d6b8e87973c6fb78",
+           "name": "Empek Empek Mak Putri",
+           "opening_hours": {
+               "open_now": false,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 2560,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/103228549185299529868/photos\">Bambang Eko Nugroho</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAazeQiFvYeBmoF-_1OZCY-r0ueBF40i8CykD2r7F4QfgWY8YPC7fEMGOqnDhchPO3uH-gv7Iu0VH3sOPuMYy182CqQEFUodWY0Lm5IaA6GneZM3fQdScBR7gyCm8qGy24EhDp2JYaUKYDjt2pYI6WBxnzGhRgF1wvQFC2zVvuW5PFIwxtO5HC-Q",
+                   "width": 1920
+               }
+           ],
+           "place_id": "ChIJXffvCnYWFy4RB-G99DtRNNA",
+           "rating": 4,
+           "reference": "CmRSAAAAf7eUWS8KlOpz3xnuSAzKtGINOLBzIKt0n6Rc5pV10sBT1GcdjDddPCHucd5gE9vgt5I5QPRpYlnT0XzSt9S5DHZHESeotoTLcKnVNGX-PQvxC6IQFScGJYmLLIWM1ra3EhBUycewgD5Ke7fNbZsmNgkTGhRnnGXrrsk2ttyl9a0PlrT6zd1GKw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Gatot Subroto, Tanjung Pendam"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.731261,
+                   "lng": 107.654437
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.729912019708498,
+                       "lng": 107.6557859802915
+                   },
+                   "southwest": {
+                       "lat": -2.732609980291502,
+                       "lng": 107.6530880197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "e5376376da0875c23b414764b8a4106240e4aa28",
+           "name": "SONGSUI KIMMOI",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 4160,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/107815670790605727291/photos\">SONGSUI KIMMOI</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA7lOTfFBuLryxKYuALLYbAXKRhg6RvEy2Tzc4SzWjbNGfVODC7LvWjRzRggJ-L2I3g6TXKYkLY0SXLAB4dabOjw8f2Mon1S4wm2anP77O9trW8i0DcI9RNFDAghnXVnHOEhCKtpW63XwgrlUJDrigvccZGhSVshRr68KAqb6LMfBtmO3KLkzjyw",
+                   "width": 3120
+               }
+           ],
+           "place_id": "ChIJS3yZtA8WFy4RUgafUsVYm8A",
+           "rating": 5,
+           "reference": "CmRSAAAAmraNqnpGB9e9bOEXVdDenOgNKqvCJB0BzYGGBXkrkawacxBJVhj5dUSkMKrJXSU_f0P0QgDs1nM7QTYYAk-fzrSCvAylrfAeuLYZBDc3owvXEF5ymkujGJ-03n7zxXQJEhBQLXfiF_x42N4QG-xkJ-4CGhSJKpV2W6Lz_8cDC6puUVNSthM0Fw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jl. Air Ketekok, Gang Pinang (at-taqwa) No. 30, Air Merbau"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7565119,
+                   "lng": 107.6532219
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.755186769708498,
+                       "lng": 107.6545502802915
+                   },
+                   "southwest": {
+                       "lat": -2.757884730291502,
+                       "lng": 107.6518523197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "2cd197d1b0aab37d0d20e7b74d45a007729cafc7",
+           "name": "AL KHOIR DIGITAL",
+           "photos": [
+               {
+                   "height": 3096,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/114223367088218102525/photos\">AL-KHOIR DIGITAL</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAxp24SpDtZhv-T5leYSBEAEM_u3SiXQSUWex3InZ7jE0aeV7GxMqcJkUz0RXnVKgvyL2hFDUYAbsGpNttYXjRJ2J_wNUbtS4qaKjRmBhIbHZ65kvuYkszaG97Qp0eCH19EhBt9KIC1bQFs0SLRwew7BwdGhTSl358MdCUzmeSxen9gdCcsYN89w",
+                   "width": 4128
+               }
+           ],
+           "place_id": "ChIJDVTkYjEWFy4RPz5xnbAx6oA",
+           "reference": "CmRSAAAAWdeJ3CuoC0dqRwpxb0b4Qk4of9ed_VyrbQyxctZP4JX9t8JXA3291S_fzMbDYXBwVnVw6wm0y5Fwba1CJGRqgSFROb6vkKuPP3UwY5Cs-5wrtAz1RDLXFLP9N8DLlY-DEhDgsGFtzKwVKjNudxmpTrI5GhQ7ipNBnfzBazOoDWSr5WA6bFLLpA",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Beringin, Pangkal Lalang"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7273919,
+                   "lng": 107.6586003
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.726042919708498,
+                       "lng": 107.6599492802915
+                   },
+                   "southwest": {
+                       "lat": -2.728740880291502,
+                       "lng": 107.6572513197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "107c78f9962a5afa3db3a3cfe39f65527fd7c171",
+           "name": "Dapur Bang Jo",
+           "photos": [
+               {
+                   "height": 1836,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/108337562641628945767/photos\">yayat ruchiyat</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAiMHE-BgT49M6hB8iuQFi0Pl7KmEGfs7oC5ASCIJFoOYiUC1r81mUDrkh_LCe2mg1xVP7Exwm9WDSKSYqKIVSiBmWm6XeD2V-MyKFRSepeD9hwzZQFqR0wCbMZ6IU0JTXEhCEetQAkjDtETz8MMbhqBfbGhQ9NbxtLCk9hlz6pSUH6Aa7ACh1Gg",
+                   "width": 3264
+               }
+           ],
+           "place_id": "ChIJAb1cbQYWFy4R1pwVMFQXexY",
+           "rating": 5,
+           "reference": "CmRRAAAApQBhJltuBZAQdyvfzSvIu3bgEDzyxSt_EuA7ADyFcD8chW_J_6dW6CVqhKGiPxIiMtoDisJToHQmbSqwhik8QfxEZtXqToTogmjowGeLLd2dQcgQADATRy-4kEQfsvtbEhBSLwU6EYJXU0RZ5kmjqJB8GhSpMPyzBzCbylb9o5ah9oW_os-Y3g",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Air Merbau"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.74464,
+                   "lng": 107.664541
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.743291019708498,
+                       "lng": 107.6658899802915
+                   },
+                   "southwest": {
+                       "lat": -2.745988980291502,
+                       "lng": 107.6631920197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "20143422cab8debb6f0bedf112923666f8c481a7",
+           "name": "warung lele kriuk",
+           "opening_hours": {
+               "open_now": false,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 915,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/116118592877705749647/photos\">warung lele kriuk</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA1Tv1ST5oem4r9B_90RqJHSQa_ScA-MzQKdbHNR9VMnEZ8DAdB85sTSKjC2NUXvTN3H5ZQTDzVa0klN37ZnS8eNTShCID1rYkX-SJM3zZY-8gszQitDZzYEIdtFKXo5WLEhAoFvDsk1_8-6bHtoXZmsTXGhT93ttpBy8PDr6R_KN2pNIFD-uwUg",
+                   "width": 913
+               }
+           ],
+           "place_id": "ChIJB16VCiEWFy4RUqeUd9Nv9Gw",
+           "rating": 4,
+           "reference": "CmRRAAAA6RN-Zz7t39PWRpHwCnYyAfB-NSPDfd3ypf9d3-jYqTXSnLjdaFYCj4dV_eWcTzD6_wDz3uuTOuTb2OWJ4PsJ-EpkZH3bBi1Mp9e_e8OjwWjrXm9hUSlPTGwCru-W_LT6EhAjuzyNqRQQ_HRnfSFLbiaSGhTR9V6M3iWFUrkt421Ws_b_ZnBrsA",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "jln jend sudirman 08/03, Perawas"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.744368,
+                   "lng": 107.6646943
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.743019019708498,
+                       "lng": 107.6660432802915
+                   },
+                   "southwest": {
+                       "lat": -2.745716980291502,
+                       "lng": 107.6633453197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "ee9f9108803c55a460c7083e99f41bf67043f571",
+           "name": "Warung Piscok Meler",
+           "opening_hours": {
+               "open_now": false,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 1920,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/112663927301825995965/photos\">Acenk Hu</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA8gOaL8vj018MK-HPL-1xMCh21EtmPEivzEnQIOeyA15GmoBij_tkSGJUgKyGlqwnM7bmzQ89F9s4ySpwwOUmG5PXXSbC1mGZkjYPlrlWsyR16hfIJZWQVN1YGVeOYp_pEhBAl5ytUR5zxMJ7-vgRF26fGhRItYOpKuVnCsVJFC0Il2e3wsEY8Q",
+                   "width": 2560
+               }
+           ],
+           "place_id": "ChIJX2sRoSEWFy4RkmWa0GEUpbs",
+           "rating": 5,
+           "reference": "CmRSAAAAMBMR9t93_ive2Swm-8T3n64AmUXSClGrVqvad3UTMRcSHbRXVSmR7KZ4zAwxDMe7SKURpegY6egnvWTuQiBoJlXuwz0oW4UDj6sWpy61DVi52GgBxQgDo5b7zyygzAaOEhCD461jzB4AFt3YpmBlm_L7GhRw3fG2kG0hni6TbysBM-HUejoOoQ",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Perawas"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7199068,
+                   "lng": 107.6710153
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.718557819708498,
+                       "lng": 107.6723642802915
+                   },
+                   "southwest": {
+                       "lat": -2.721255780291502,
+                       "lng": 107.6696663197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "c0bf1217ffdb00e6e796005782efcef6e7b7a67f",
+           "name": "Pandan House Restaurant",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 1330,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/117943037351839883948/photos\">Pandan House Restaurant</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA-mMk44bewAQAdwK_2HJAK6rHggzlr278l1C8Zs2Jru3IvaS4kXrh5iBI31cX2sdOOqQU9Q3P6arV-iwB1z4GaOEjYLKfJ9NR6iuCEspgsxXf8JHn38icKVzg5BaZsdK8EhDjQKWZF8Q78rtsVl2k9SiAGhTa_rOwc1pHJGcb2Xh8KqXhQMeS7A",
+                   "width": 1329
+               }
+           ],
+           "place_id": "ChIJOwOH6wE-Fy4RLWGS5ipcTUs",
+           "rating": 4.3,
+           "reference": "CmRRAAAAVgnV0LlMxHPovCtVzvjWWRUy0c-q1VHCrjiNsf1Xsz6rIJd7MhhU15iobHpb5ICeL14cWN8EuttBYiYO5aJyFJ4Q7X2b7mBIlkhLOCf6HpiALTBAuwiJq1Y2SjR_oTuTEhCemK9_dkyQqxMwQ45-EbtlGhRPSSODh17sDG_ZqUV_YEgoDmHOKQ",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Sijuk Km. 4,5 No. 18A, Air Merbau, Tanjung Pandan, Air Merbau"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.7454564,
+                   "lng": 107.6777567
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.744167219708498,
+                       "lng": 107.6790574802915
+                   },
+                   "southwest": {
+                       "lat": -2.746865180291502,
+                       "lng": 107.6763595197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "0ccad77acbb6649426737e739fac3de0ea77139e",
+           "name": "Kedai SS",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3096,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/101118914468201869296/photos\">Juanda Ali</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA7WMz2tiGYV3WXlTtBuA36YfCYgb1vMKWXpKYD_bcpMGbON7QdcidqAZXXK-lWH2E3Nnmkhpfr-gB0VjAU2B-l6OGc43zxXmwYJzZozeZSIgiQlCVplwrJUMr10mRFXysEhCaObd3iK4RKG8J47E9_MY2GhRLMccyKa4Vwz2rGHE5t59KqCCJCg",
+                   "width": 4128
+               }
+           ],
+           "place_id": "ChIJof7MSow9Fy4RJQNg9oF_dfs",
+           "rating": 3.8,
+           "reference": "CmRSAAAAv-V_htd-xrpZjUjMaHK04nItgnIz0pQNn058v2d3OL-07SgfAIblaidqU3gd-VgnfQGY4007MB8UaQHf5LI8Rm7HOowsbOkBKaholt1xRBBOIw8g7GYONAuIldbS_HtaEhAvCqT2hgx7U3IhD1eLJg1JGhTyWOU53ZYFQtA11uDlK9_GHi3I6Q",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Sudirman No.99, Perawas"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.68624,
+                   "lng": 107.63128
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.684891019708498,
+                       "lng": 107.6326289802915
+                   },
+                   "southwest": {
+                       "lat": -2.687588980291502,
+                       "lng": 107.6299310197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "1469d759c7870d44f6c11d32aff404191cefb446",
+           "name": "RM Grago Point ( Traditional & Authentic Resto)",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3120,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/104135337558672654587/photos\">RM Grago Point ( Traditional &amp; Authentic Resto)</a>"
+                   ],
+                   "photo_reference": "CmRaAAAASgFe1C4IFmaXkeB_vYqO8zCwXvCG5hpmeijNJbeesPJVlNVxysDI2DP6SC3rRu1-ZyJ0C6nTIo1ksmKqxYLLPBQ3yH_OpoW9CzYSeo_pxjhBoOffZWXGLlOYFie4cdZlEhBEmWx3nCm7rrWKDbHsnNyeGhT36TBk1CDqTjKdDpNItXXVOPlQ2A",
+                   "width": 4160
+               }
+           ],
+           "place_id": "ChIJ4ZvlOqgVFy4RdJC_Y0GjTvI",
+           "rating": 4,
+           "reference": "CmRSAAAAeOscondBWVKPvQVWeJQfaqUuMtZ8Ac5ozpyTk2ozue_dBW__CDsCWGg_gnkOjuJZB5cIQc7Q0Nv8btsnOkORsuDvCsDWB21KTq-DyGRCkdRaEMbSiZ8dPsjJultlA609EhC9pjcnyDCUgUZD4ZOes7sUGhTX1YR1-b1SyhB5DnJXb_E0JP1_6Q",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "store",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jl. Tanjung Kelayang Ds Batu Itam 04/02 Sijuk Belitung, Kep.BABEL Indonesia 33410, Batu Itam"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5609987,
+                   "lng": 107.6726353
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.559649719708498,
+                       "lng": 107.6739842802915
+                   },
+                   "southwest": {
+                       "lat": -2.562347680291502,
+                       "lng": 107.6712863197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "8de5e748a4a1fbe9b223a3bb702f9ada98982e77",
+           "name": "RM. LILI",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3120,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/102788214148620105077/photos\">Liliana Liliana</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAGQ_No96feTUJ245qr9WDbV0hoaof4fdDm63nZ4txPRL5LRUmfbITJdLrLgBF2lyXahEHp0Y_p7N7-U7dd99-1LSfG-1eN15ZurGyV8gbeBnFFpSkExYEoNszI0vZLh_vEhCAKfp_Xzs_D5BgNEV4IAz8GhQxnzBxqhP7zqNn93eehXnsD0ehIQ",
+                   "width": 3120
+               }
+           ],
+           "place_id": "ChIJnV3NkQhCFy4RSxRrtBpTdEw",
+           "rating": 4,
+           "reference": "CmRRAAAALvJogeVteHf0djsU7nzSFyWbCXhqX7knUf4U-2umTB0HpNZmI4aoiPo3gidpuPRbupcrf4oVe1J0WGpSsly-RfT2rskhTw9XkswgmTLzY83HFL3AUYe6PcOGD--NP742EhDjnTd1Yj118cM1VoY6WDZxGhRGf68BQk6lsCAsWq-IeTFW9T_D4Q",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jl. Tanjung Kelayang, RT. 05 / RW. 08, Keciput, Sijuk, Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.560292,
+                   "lng": 107.6716845
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.558943019708499,
+                       "lng": 107.6730334802915
+                   },
+                   "southwest": {
+                       "lat": -2.561640980291502,
+                       "lng": 107.6703355197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "721cfedd35b8060b2110ab0cc1f0fc15f8098afa",
+           "name": "Restauran Sian Lie",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "place_id": "ChIJZfYrXwhCFy4RgXX6fl16SVQ",
+           "rating": 4.7,
+           "reference": "CmRRAAAAcoyEU705z5AY0DlqX0-BxgMw0usFpxkueYwJv7zLj57OugIR4-tjAnBiBsO2WEwqES91e0MG0FUY9Dur0pAPHU3ZPdjcyg3Xiap1HeLSGPjJb1_E2_sM8adJ2l-MZN0UEhBanWp8ZpMvTbS2K7Es7sUsGhR9O3JC_A93Wab-A9lJnSRqEgsrrw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Unnamed Rd,"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5594128,
+                   "lng": 107.6692452
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.558089319708498,
+                       "lng": 107.6706126802915
+                   },
+                   "southwest": {
+                       "lat": -2.560787280291502,
+                       "lng": 107.6679147197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "03dbfa05b52f71743acb1b6d948549dcfa4b68a8",
+           "name": "Rumah Makan Nuansa Pantai",
+           "place_id": "ChIJuayr1AlCFy4RI1i7rWKN7q0",
+           "reference": "CmRSAAAAXdzgsTJy9Ih2I3l0vONVqMnyiHEbHx9sKfomfo0vifYLowWgyudW3u1E8Rst4T0FEReKkkLU-AvbZrZv83tbmsTvEXo4WgtBvBVTEom6ghs9TwmNa3IdimqW5dNlVH5UEhDJTxQz9mWby6dgQIMQljAwGhShWE6YLKs6ChZQHIJ1dnsGVfMrMg",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jalan Kelayang Indah, Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5589857,
+                   "lng": 107.669296
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.557636719708499,
+                       "lng": 107.6706449802915
+                   },
+                   "southwest": {
+                       "lat": -2.560334680291502,
+                       "lng": 107.6679470197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "03361c9a4370ff988f202c135feeaf3f6de38ecf",
+           "name": "Ratu Seafood",
+           "photos": [
+               {
+                   "height": 2160,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/115907231749392750660/photos\">Lukman Hakim</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAu0Ygkr2w7Zk4PuvXpVP4mjqWhIMAeqqdEvEm7Ew001xtHab7WyukwULX5DAcCXCwa-4R7Xw_qGZTDjazWiHJOicBob3NhAmQf9bd2bBflxXr0rif3Ml0fea4KugYxbd8EhBmKT1i8ZaCKxq6xz6HU2LAGhS7NbxCzbBhPTh701FORjbrTNQXVQ",
+                   "width": 3840
+               }
+           ],
+           "place_id": "ChIJq0Qo0QlCFy4Rfw4CE2A3zgU",
+           "reference": "CmRRAAAA3maQe5Mue6n5VTSkK_Bi1RbDGqHHStSR6vjjM5XYmdjh_9OPZWMaXWgokXgM_-tHr9kXnHZJmKMrxaB1OzOYhIk6hSkNcVbFToSLztIgRXdqhkHj360dbeOfBNmy8DPrEhBEQyfCda0ISnX_E426_c2gGhSwpvA4kdNqbtfEJTxYNunHUcaBBQ",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.558383499999999,
+                   "lng": 107.6686301
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.557034519708498,
+                       "lng": 107.6699790802915
+                   },
+                   "southwest": {
+                       "lat": -2.559732480291501,
+                       "lng": 107.6672811197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "ed662493703a11de8b1794906749e9672764aa28",
+           "name": "Kelayang Cottages And Resto",
+           "photos": [
+               {
+                   "height": 3024,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/116029113432886071482/photos\">riando tambunan</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA0CKeWhdbBwEpAuYEDR310f3c-3xT-PwDL4Y6p1Ri9rAqQLiXq0lWMAnOL9adj6-f295_QjqwQEjadLy8ONX3n--QeziMrL1Yb51px6FiJ65eEXtAmejYUfpIGQtfjl4gEhDvRiFboHqywR44lbydCR6BGhQYOceJV_D51zHxHhMRrQklErf-wA",
+                   "width": 4032
+               }
+           ],
+           "place_id": "ChIJZyP0dOJpFy4RStAHiNX8ZZY",
+           "rating": 4,
+           "reference": "CmRSAAAAJtS1qqg7MYbbOnkTgJVYpTYSYDvETC3368YSkYa4XYBaj_qu6iQiqX5JOOTjL2nylk9YO4DcfVSdDLdKxYDZZdyRNwhsc5zHeg2WXQH2oeEz3UJbD_MbUUoS5z8LKTsgEhBwiwb_FpISIPEGZLIJUgwXGhTydsWon5ztV-UPrgBPGXHTBx2Dcw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5626011,
+                   "lng": 107.6969861
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.561252119708498,
+                       "lng": 107.6983350802915
+                   },
+                   "southwest": {
+                       "lat": -2.563950080291502,
+                       "lng": 107.6956371197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "ce2a7f04d696e50170a7de986aa9db3d5c43a486",
+           "name": "RM Amat",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 4208,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/100262412924894063941/photos\">Randy Tasajaya</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAsXpUZmS1nIkEdn3uWWmtrGDX2YI8_w7qwtEeDZkbtr66hFItbv_1ChQYre21rcXuwvUrAvThodVoSmI3Xd0geBSPwpoPa5g4yGysL4oV2Lokistw8-bcoWwNaarhKJMPEhBWkmSzrdEf2fdnudny1czdGhTtmzsdznExKDXXJxD8gSLZKPfqLA",
+                   "width": 3120
+               }
+           ],
+           "place_id": "ChIJLSe-d5M9Fy4R3OVipq3cvMI",
+           "rating": 4.4,
+           "reference": "CmRSAAAAASTF5yHapsit1i0p9Cp65YtuosSnAIZ5YG2okWDkk31KOu5rau3E91u6R9dtWVqNb_eavtwULAIMvK0b122qVI-M4TPYLWQ2jOJVtuMQiGfoxbPEGcX_XMhOuOiCTHKkEhDiXfEXeIMw12r2RPLdIhREGhSq14HxmllwMJjysT0r3FjI2wq_sw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jl. Tanjung Tinggi, RT 12 / RW 07, Sijuk, Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.562588,
+                   "lng": 107.6977981
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.561239019708498,
+                       "lng": 107.6991470802915
+                   },
+                   "southwest": {
+                       "lat": -2.563936980291502,
+                       "lng": 107.6964491197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "38f94f8890d408dfec17a9f63693c1a54e8127f4",
+           "name": "RESTAURANT MABAI",
+           "photos": [
+               {
+                   "height": 2336,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/112757291623149516560/photos\">RiNaldi Tjhin</a>"
+                   ],
+                   "photo_reference": "CmRaAAAA3e8wcdrCMEkI3LbdlBtwBZFmj3uueqhLBjqEHNXx6cCHrI6S0THBy8WuK5PRcc4Z1cjwggHrggmsoI9742K3ZAWAluMhUQOLgYZbpEfbJv3My9wYFnOX9xnazat_punBEhAI7iKFg7hKV7VCbkcbzgJKGhRWR0oVRsOQ75q9tgyiU2_4hddwlQ",
+                   "width": 4160
+               }
+           ],
+           "place_id": "ChIJLSe-d5M9Fy4R8bj3FYvDdzo",
+           "rating": 3.8,
+           "reference": "CmRRAAAAcKiKkfEMxkK9kvV8rhMto7uF9HVhkpb2wUyIpSh_SGC39Tn-ZqBFdGeoNLFe5WL9DdEfsoQDqwW6SqRqCXO6kjhujPYOCWJp0Zw0axT1Epbs7x3_S_m4IML8YaUE3eSMEhDynDGf-Ze9jLpE19dvbGZFGhSY_ObJcMZeDkjTmn5O-DaqlQh8rw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Jl. Tanjung Tinggi, Sijuk, Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5504444,
+                   "lng": 107.652279
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.549095419708498,
+                       "lng": 107.6536279802915
+                   },
+                   "southwest": {
+                       "lat": -2.551793380291502,
+                       "lng": 107.6509300197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "6ed2d13147f270a6784e436da01f1901fb1c934c",
+           "name": "Resto Kepayang",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3120,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/101695476759878167175/photos\">Roy Ps</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAs_RpU135wezslg-5MU-1gZ7GiOsuohPEcNdMw_fhChNmrgX47lg1vHExiYbiTqUuIZA5mG1aa0voEKzuEf9MWAU6guE5GjBhhNIjJJIqrd_fDVTf4ThCjSiobvmzebRAEhC-c08C4-5lcdI9A7wwGILDGhSyuS8k-4aHyyJjwv3s521l23Jbkw",
+                   "width": 4160
+               }
+           ],
+           "place_id": "ChIJn8kPNMJpFy4RgxqjYrXsDjQ",
+           "rating": 4.3,
+           "reference": "CmRRAAAAgchasUVaQ9qhl4La44i1jx0_BZGBvVcCCg_Eu4BDAiH9d9m9lMNu0aVft7qF2J3ulpyGj-sv0bRfX16dDOPDH-YsiMvuDHu-GaXqxJd3vhlB_GNNMx99nXgMELMCCaoPEhCWyJCRz68lqpdbqqu2z7uQGhQe1KWS7Rq8GYXEKdeNtrfBjQkvsg",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5546941,
+                   "lng": 107.7179123
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.553345119708498,
+                       "lng": 107.7192612802915
+                   },
+                   "southwest": {
+                       "lat": -2.556043080291502,
+                       "lng": 107.7165633197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "14bae5cde0db65fbc3e879a71dd55214776a90bc",
+           "name": "Warung Pojok",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 1836,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/110427295498891469048/photos\">Bustanil Arifin</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAo-TG4JGAvNaoc83eV9HMEUDNcT2g3b-0IqCmjMQ7VDlTUc24naZ6MiXJpZMObKF7RhyLxUroptCoMHgr-Yd-fbdccl1raUSbwaXjRI840OOVFGXslIrdIdYb9q8A1HZyEhCXlXQ2ao7e_q-Mo-2Rv17xGhRm1eFMnJ__7SrfYf7y58fZo38-vA",
+                   "width": 3264
+               }
+           ],
+           "place_id": "ChIJiY2nF8tDFy4RSCBjPetqW90",
+           "rating": 3,
+           "reference": "CmRSAAAAnDmFiLDW7m9YIHZ_m7bFnMejCvxddkH8GxEp0_dU_KuVNLlnm-nOVATEzdohnP4bx52yR6NWfuTWiRLwv9lNrayPdlUSZdm_hmpRJzO3kUlO54ag_9LzVH1UU16KdcwXEhBzP4kyJDjsRLR_v4QqojIzGhRauGjbRx4hSSsNwPZ5fDHZjbmS3w",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5539237,
+                   "lng": 107.7182875
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.552574719708498,
+                       "lng": 107.7196364802915
+                   },
+                   "southwest": {
+                       "lat": -2.555272680291502,
+                       "lng": 107.7169385197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "e02986b4cfd7e7342e22280447d9fbb15e8b2986",
+           "name": "Rumah Makan Seleraku",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 3024,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/115625140189679364553/photos\">Matt Flax</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAvWOb-6hELenDFgVsH-4wzUjkRqQIeno4IS-o4JuY9hzgc6X6neumLZcffCXXFPtPMQuwGnZnan3KLYN6uQgKieuYNRvHGfQfQDzRwaD_TGBx6E8aqzFaJFwsMaJmfLo5EhCt0DZyhXA2pGVR03gz1bfAGhQpRmYpGTIZfxRu0mJ0y8Ac4HsAxw",
+                   "width": 4032
+               }
+           ],
+           "place_id": "ChIJTZqK4spDFy4RondQP070elM",
+           "rating": 4,
+           "reference": "CmRRAAAA7h5D85SnAXk37wnmDX7UwVXKCvSg-K9rumgaXtFqgOOjbUlnAELFvDqxrxPciDKFXSGTe9zO8Syu7qtvHJK_BicaG0Hnioq6XTtomdX7MA4mrx7a6SiR5SEkorcvtw7PEhCs_0etTHuIZzUdcqSCpP07GhQwp5eh9T089QTKJ0gixOukngTJXA",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Keciput"
+       },
+       {
+           "geometry": {
+               "location": {
+                   "lat": -2.5535784,
+                   "lng": 107.7182198
+               },
+               "viewport": {
+                   "northeast": {
+                       "lat": -2.552229419708498,
+                       "lng": 107.7195687802915
+                   },
+                   "southwest": {
+                       "lat": -2.554927380291502,
+                       "lng": 107.7168708197085
+                   }
+               }
+           },
+           "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+           "id": "2d51d87dbde527c6c8fb91a7257c9a4664e70d89",
+           "name": "RM cintakasih seafood",
+           "opening_hours": {
+               "open_now": true,
+               "weekday_text": []
+           },
+           "photos": [
+               {
+                   "height": 2528,
+                   "html_attributions": [
+                       "<a href=\"https://maps.google.com/maps/contrib/111446544959870685931/photos\">Bayu Afriyadi</a>"
+                   ],
+                   "photo_reference": "CmRaAAAAgIi9n4ZWaA27OReomjqpFBF1Q3yrSr-_6jh4x8Tvo0aXpiu8QCxtV72LQa0bxCK0OD8hmDptzWgfAM7a4nt4BKBQkbXUrpKN_meM3BG1DwYZMRqny1bvQ-6gRsPSG9ZjEhC3rYDh28847Lk0kJU9QQq9GhQKOIuE84ZAaaPvo7Pc6gGxdDgASw",
+                   "width": 4112
+               }
+           ],
+           "place_id": "ChIJ6yRP5MpDFy4RPqe3Ode6OMU",
+           "rating": 5,
+           "reference": "CmRSAAAAx5ltXycfSkDp772BP-VKbfBp8ob5FL4E4hQp963sUqa7Pi7uI-HmjbMXqN1VuevFdgIvkaiP1oMzkVgOvDHc2Bk5Y22_eMNN7PPhjeBi01w_i7U26YhkwITImpaA5hLIEhDNQEiOkSuNmbTTfLI7MzvyGhT0E_TLYRGs5oCfPK3nyhXRfaUcWw",
+           "scope": "GOOGLE",
+           "types": [
+               "restaurant",
+               "food",
+               "point_of_interest",
+               "establishment"
+           ],
+           "vicinity": "Keciput"
+       }
+]
