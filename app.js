@@ -17,7 +17,7 @@ app.use('/cms', getImage);
 
 
 
-const PORT = process.env.PORT || 2000;
+const PORT = 2000;
 const server = app.listen(PORT, () => {
   console.log(`Server Jalan di port ${PORT}`);
 });
