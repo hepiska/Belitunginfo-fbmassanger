@@ -1,36 +1,9 @@
 const router = require('express').Router();
-const model = require('../models');
+const spotControler = require('../controlers/spot');
 
-router.post('/addSpot', function(req, res) {
-  const {name,lng,lat,description,premium,count,category,rate} = req.body
-  model.Spot.create({
-    name,
-    lng,
-    lat,
-    description,
-    premium,
-    count,
-    category,
-    rate
-  }).then((data)=>{
-    res.send('insert data succes')
-  }).catch(err=>{
-    res.send(err)
-  })
+router.post('/Spot',spotControler.addSpot );
+router.get('/Spot/:id',spotControler.showSpot );
 
-});
-
-router.post('/addImage', function(req, res) {
-  const {spot_id,image_url} = req.body
-  model.Image.create({
-    spot_id,
-    image_url
-  }).then((data)=>{
-    res.send('insert data succes')
-  }).catch(err=>{
-    res.send(err)
-  })
-
-});
+router.post('/image',spotControler.addImage);
 
 module.exports = router
