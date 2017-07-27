@@ -19,9 +19,10 @@ module.exports = {
    })
  },
  addImage:(req,res)=>{
-   const {spot_id,image_url} = req.body
+   const {owner_id,image_url} = req.body
+
    model.Image.create({
-     spot_id,
+     owner_id,
      image_url
    }).then((data)=>{
      res.send('insert data succes')

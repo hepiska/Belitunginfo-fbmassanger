@@ -5,7 +5,7 @@
   "scripts": {
     "start": "pm2 start app.js > log.txt",
     "stop": "pm2 stop all",
-    "restart":"pm2 restart all",
+    "restart": "pm2 restart all",
     "dev": "nodemon app.js",
     "test": "npm test"
   },
@@ -13,6 +13,8 @@
   "author": "hepiska <ego1403@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@google/maps": "^0.4.3",
+    "apiai": "^4.0.3",
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
