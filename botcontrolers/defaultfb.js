@@ -35,8 +35,9 @@ FBdefaultFunction = {
         button.type="web_url"
         button.url=`https://www.google.com/maps/place/${data.lat},${data.lng}/@${data.lat},${data.lng},4z`;
         button.title= 'location';
-        buttons.push(button)
         element.title = data.name;
+        buttons.push(button)
+        element.subtitle = data.description;
         element.image_url = data.image_url;
         element.buttons=buttons
         return element
@@ -57,7 +58,7 @@ FBdefaultFunction = {
       };
     axios.post(FB_URL,payload).then((res)=>{
       //console.log(res);
-    })
+    }).catch(err=>{console.log(err);})
   },
   sendGplace(recipientId,datas){
     var sendData= datas.map(data=>{
@@ -69,8 +70,17 @@ FBdefaultFunction = {
         button.title= 'location';
         buttons.push(button)
         element.title = data.name;
-        element.subtitle = `google rate ${data.rating}, buka: ${data.opening_hours.open_now ? 'buka':'tutup'}`;
-        element.image_url = `https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=${data.photos[0].photo_reference}&key=${GPLACE_KEY}`;
+        if (data.opening_hours) {
+            element.subtitle = `google rate ${data.rating}, sedang buka: ${data.opening_hours.open_now ? 'buka':'tutup'}`;
+        } else {
+             element.subtitle = `google rate ${data.rating},  sedang buka: ?`;
+        }
+        if (data.photos) {
+          element.image_url = `https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=${data.photos[0].photo_reference}&key=${GPLACE_KEY}`;
+        } else {
+          element.image_url = ``;
+
+        }
         element.buttons=buttons
         return element
     })

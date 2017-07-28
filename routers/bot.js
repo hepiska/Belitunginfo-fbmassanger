@@ -80,6 +80,7 @@ router.post('/hook', function (req, res) {
                     })
                   break;
                   case "place_by_district":
+                  //console.log(response.result);
                   FB_Function.sendMessage(sender.id,response.result.fulfillment.speech);
                   console.log(response.result.parameters.place,response.result.parameters.district);
                   gplace.placeByDisctrict(response.result.parameters.place,response.result.parameters.district)
