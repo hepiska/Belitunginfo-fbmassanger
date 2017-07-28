@@ -7,5 +7,6 @@ router.get('/Spot',spotControler.showSpots );
 router.delete('/Spot/:id',spotControler.deleteSpot );
 
 router.post('/image',spotControler.addImage);
-
+router.get('/image',spotControler.showImage);
+router.delete('/image/:id',spotControler.deleteImage)
 module.exports = router

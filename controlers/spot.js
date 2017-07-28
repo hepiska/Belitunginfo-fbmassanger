@@ -44,6 +44,24 @@ module.exports = {
    }).catch(err=>{
      res.send(err)
    })
- }
+ },
+ showImage:(req,res)=>{
+   const {owner_id,image_url} = req.body
+   model.Image.findAll({
+   }).then((data)=>{
+     res.send(data)
+   }).catch(err=>{
+     res.send(err)
+   })
+ },
+ deleteImage:(req,res)=>{
+   model.Image.destroy({
+     where:{
+       id:req.params.id
+     }
+   }).then(data=>{
+     res.send("delete success")
+   })
+ },
 
 }
