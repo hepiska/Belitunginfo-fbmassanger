@@ -18,6 +18,21 @@ module.exports = {
      res.send(data)
    })
  },
+ showSpots:(req,res)=>{
+   model.Spot.findAll({
+   }).then(data=>{
+     res.send(data)
+   })
+ },
+ deleteSpot:(req,res)=>{
+   model.Spot.destroy({
+     where:{
+       id:req.params.id
+     }
+   }).then(data=>{
+     res.send("delete success")
+   })
+ },
  addImage:(req,res)=>{
    const {owner_id,image_url} = req.body
 
