@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const bot = require('./routers/bot');
 const getImage = require('./routers/cms');
+const publics = require('./routers/publics');
 const app = express();
 const https = require('https');
 const request = require('request');
@@ -13,6 +14,7 @@ app.use(bodyParser.urlencoded({ limit: '50mb', extended: false }));
 app.use(cors());
 app.use('/bot', bot);
 app.use('/cms', getImage);
+app.use('/public', publics);
 
 
 

@@ -22,6 +22,6 @@ const placeByDisctrict = (place,district) => {
   })
 }
 
-placeByDisctrict( 'restaurant','tanjung tingggi' ).then(data=>{
+placeByDisctrict( 'bakery','tanjung pandan' ).then(data=>{
   console.log(data);
 })
