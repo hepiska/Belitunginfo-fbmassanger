@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({ limit: '50mb', extended: false }));
 app.use(cors());
 app.use('/bot', bot);
 app.use('/cms', getImage);
-app.use('/public', publics);
+app.use('/home', publics);
 
 
 
